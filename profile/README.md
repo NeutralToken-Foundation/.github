@@ -16,6 +16,16 @@ The NeutralToken Foundation is dedicated to building open, interoperable tools t
 
 ---
 
+## 🧪 Example Applications
+
+- [**demo-issuer**](https://github.com/NeutralToken-Foundation/demo-issuer)  
+  Reference implementation for issuing credentials using the NeutralToken protocol.
+
+- [**demo-verifier**](https://github.com/NeutralToken-Foundation/demo-verifier)  
+  Reference verifier that demonstrates how to validate NeutralToken credentials in client apps.
+
+---
+
 ## 🚀 Getting Started
 
 Developers can integrate NeutralToken into their applications using our core SDK:
